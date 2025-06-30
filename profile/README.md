@@ -1,5 +1,5 @@
 # Yo!
 
-Bem-vindo ao espaço oficial da **sudojed**, onde a arte e tecnologia se encontram para dar vida a ideias únicas. Atuamos com criatividade, leveza e originalidade em tudo o que fazemos — da CLI à GUI e do código à imagem. 
+Welcome to the official space of **sudojed**, where art and technology meet to bring unique ideas to life. We work with creativity, lightness, and originality in everything we do — from CLI to GUI, and from code to visuals.
 
-@sudojed - _"Tangente à critividade"._
+@sudojed – _"Tangent to creativity."_
