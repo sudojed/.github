@@ -1,8 +1,6 @@
-# SudoJED
+# Yo!
 
-**Tangente à criatividade**
-
-Bem-vindo ao espaço oficial da **sudojed**, onde a arte e tecnologia se encontram para dar vida a ideias únicas. Atuamos com criatividade, leveza e originalidade em tudo o que fazemos — da CLI à GUI e código à imagem.
+Bem-vindo ao espaço oficial da **sudojed**, onde a arte e tecnologia se encontram para dar vida a ideias únicas. Atuamos com criatividade, leveza e originalidade em tudo o que fazemos — da CLI à GUI e código à imagem. 
 
 ## Sobre nós
 
